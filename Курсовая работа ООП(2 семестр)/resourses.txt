@@ -1,0 +1,6 @@
+99 milk
+100 water
+99 coffee
+99 cup
+95 sugar
+98 whipped_milk
